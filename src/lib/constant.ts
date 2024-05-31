@@ -1,1 +1,1 @@
-export const serverUrl = process.env.SERVER_URL || 'http://localhost:3456';
+export const serverUrl = process.env.NEXT_PUBLIC_SERVER_URL || 'http://localhost:3456';
